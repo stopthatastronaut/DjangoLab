@@ -13,3 +13,6 @@ python manage.py migrate
 python manage.py runserver
 
 Pop-Location
+
+
+# password is just 'Password'. It's a Lab, there's nothing important in here.

@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "quickstart",
+            "database": "${workspaceFolder:djangolab}/quickstart/db.sqlite3",
+            "group": "djangolab"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
